@@ -1,0 +1,57 @@
+header{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+  font-weight: bold;
+    padding-left: 15px;
+}
+
+body{
+    background-color: #333;
+    color: #fff;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display:inline-block;
+    text-align: center;
+}
+
+.hub{
+    color: #000;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.logo{
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.element{
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-radius: 0;
+    display: inline-block;
+    min-width: 5em;
+    margin: 0 0.5em;
+}
+
+.photo{
+    width: 400px;
+    height: 220px;
+    border-radius: 5px;
+}
+
+.grid{
+    display:inline-block;
+}
